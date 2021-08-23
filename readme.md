@@ -7,7 +7,7 @@ This is my personal repository, right now I am working on a development framewor
 - Elasticsearch
 - DjangoCMS
 - Google Kubernetes Engine (GKE)
-- Python and C# as main programming languages
+- C#, javascript and Python as main programming languages
 
 Also as part of the framework I have been working on some Django CMS Plugins and a CLI tools to make the work with the CMS a little more entertaining.
 
